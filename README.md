@@ -32,7 +32,7 @@ This will convert all rem units back to px units in all CSS files in ./my-css-di
 ## Requirements
 This script requires Python 3 and the tqdm library for displaying progress. You can install tqdm with pip:
 
-```python
+```console
 pip install tqdm
 ```
 
